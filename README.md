@@ -276,11 +276,11 @@ Based on the customer segmentation analysis, the following strategies can help i
 Follow these steps to recreate the complete analysis:
 
 1. Download the **Online Retail II** dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/502/online+retail+ii).
-2. Run the SQL scripts available in the `01_sql` folder in the specified order to recreate the cleaned `RetailCleaned` table.
+2. Run the SQL scripts available in the `SQL` folder in the specified order to recreate the cleaned `RetailCleaned` table.
 3. Export the cleaned dataset from SQL Server to CSV.
-4. Open the Jupyter Notebook in the `02_python` folder and execute the RFM analysis and customer segmentation workflow.
+4. Open the Jupyter Notebook in the `Python` folder and execute the RFM analysis and customer segmentation workflow.
 5. Generate the segmented customer dataset.
-6. Open the Power BI file in the `03_powerbi` folder.
+6. Open the Power BI file.
 7. Update the data source path to the exported Excel file and refresh the dashboard.
 
 ---
