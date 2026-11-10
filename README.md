@@ -285,28 +285,7 @@ Follow these steps to recreate the complete analysis:
 
 ---
 
-## 📁 Repository Structure
 
-```text
-IKEA-Gifting-Customer-Analytics/
-│
-├── 01_sql/
-│   ├── data_import.sql
-│   ├── data_cleaning.sql
-│   └── exploratory_analysis.sql
-│
-├── 02_python/
-│   └── rfm_segmentation.ipynb
-│
-├── 03_powerbi/
-│   └── customer_analytics_dashboard.pbix
-│
-├── dashboard-preview.png
-│
-└── README.md
-```
-
----
 
 ## 👨‍💻 Skills Demonstrated
 
